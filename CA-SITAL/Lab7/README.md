@@ -1,7 +1,11 @@
-Lab 7: VHDL Code for Sequential Circuits — Flip-Flops
+Lab 7: VHDL Code for Sequential Circuits — Flip-Flops                                                    
+
+
+
 Objective
 To design and simulate SR, D, JK, and T flip-flops in VHDL.
 To understand the role of the clock signal in sequential circuits.
+
 Theory
 A flip-flop is a bistable sequential element that stores one bit of state. Unlike combinational circuits, the output of a flip-flop depends on both the current inputs and its previous state. All flip-flops in this lab are triggered on the rising edge of the clock signal.
 
