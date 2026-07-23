@@ -1,0 +1,10 @@
+v 4
+file . "counter_tb.vhd" "2992739fef1878f2940a3c30cf12b387295c0b76" "20260723045153.038":
+  entity counter_tb at 1( 0) + 0 on 27;
+  architecture simulation of counter_tb at 5( 92) + 0 on 28;
+file . "counter_updown.vhd" "f1d8a8840c22a7f212dc03671394ec7b034306d4" "20260723045153.037":
+  entity counter_updown at 1( 0) + 0 on 25;
+  architecture behavioral of counter_updown at 12( 329) + 0 on 26;
+file . "counter_up.vhd" "0ffe2da08b6971695a864ac100611dd58ed218a1" "20260723045153.031":
+  entity counter_up at 1( 0) + 0 on 23;
+  architecture behavioral of counter_up at 11( 252) + 0 on 24;
